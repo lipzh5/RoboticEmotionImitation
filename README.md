@@ -24,3 +24,5 @@ pip install -r requirements.txt
       Then, extract frames from these animated videos.
 - 2.3 TBD
 
+## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
+Coming soon!!!
