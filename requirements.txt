@@ -1,0 +1,5 @@
+tensorboard
+opencv-python
+scipy
+hydra-core
+transformers
