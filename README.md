@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - 2.2 Check out the code from [LivePortrait](https://liveportrait.github.io/) and animate assets/images/ameca_neutral.jpeg using any driving videos.
       The animated videos should resemble [this](https://drive.google.com/file/d/1n7bLr458SKh1Z3u_NCWwTnCfJgngKW5L/view?usp=sharing).
       Then, extract frames from these animated videos.
-- 2.3 Generate new animation files using the [Animator tool](https://drive.google.com/drive/folders/1_L9uMYLmUtxpFe6_IpCu13F5WXkdPZ57).
+- 2.3 Generate new animation files using the [Animator tool](https://drive.google.com/file/d/1IDELUro-fQxjhQR1KcO4uETLxsm4JMBw/view?usp=drive_link).
       Instructions will be provided in person. Please bring your laptop and meet @Penny.
 
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
