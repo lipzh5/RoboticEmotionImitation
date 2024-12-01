@@ -17,12 +17,13 @@ pip install -r requirements.txt
 ```
 
 ### 2. Tasks
-- 2.1 extract frames from the video using the provided script (get_frames_from_vid.py). Feel free to modify it according 
+- 2.1 Extract frames from the video using the provided script (get_frames_from_vid.py). Feel free to modify it according 
       to your needs, and submit any issues on GitHub if you encounter any.
 - 2.2 Check out the code from [LivePortrait](https://liveportrait.github.io/) and animate assets/images/ameca_neutral.jpeg using any driving videos.
       The animated videos should resemble [this](https://drive.google.com/file/d/1n7bLr458SKh1Z3u_NCWwTnCfJgngKW5L/view?usp=sharing).
       Then, extract frames from these animated videos.
-- 2.3 TBD
+- 2.3 Generate new animation files using the [Animator tool](https://drive.google.com/drive/folders/1_L9uMYLmUtxpFe6_IpCu13F5WXkdPZ57).
+      Instructions will be provided in person. Please bring your laptop and meet @Penny.
 
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
 Coming soon!!!
