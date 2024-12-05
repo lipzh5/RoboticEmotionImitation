@@ -21,6 +21,11 @@ pip install -r requirements.txt
       to your needs, and submit any issues on GitHub if you encounter any.
 - 2.2 Generate new animation files using the [Animator tool](https://drive.google.com/file/d/1IDELUro-fQxjhQR1KcO4uETLxsm4JMBw/view?usp=drive_link).
       Instructions will be provided in person. Please bring your laptop and meet @Penny.
+  - 📣 **Notices for Animation Filming:**
+    1. Include the full cycle of the animation.
+    2. Maintain the same image size as in the [example videos](assets/vid2frames/videos/Chat_G2_Angry_1_FaceOnly%20(1).mov).
+        
+
 - 2.3 **(Optional)** Check out the code from [LivePortrait](https://liveportrait.github.io/) and animate assets/images/ameca_neutral.jpeg using any driving videos.
       The animated videos should resemble [this](https://drive.google.com/file/d/1n7bLr458SKh1Z3u_NCWwTnCfJgngKW5L/view?usp=sharing).
       Then, extract frames from these animated videos.
