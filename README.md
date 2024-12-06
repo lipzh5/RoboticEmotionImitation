@@ -23,12 +23,13 @@ pip install -r requirements.txt
       Instructions will be provided in person. Please bring your laptop and meet @Penny.
   - 📣 **Notices for Animation Filming:**
     1. Include the full cycle of the animation.
-    2. Maintain the same image size as in the [example videos](assets/vid2frames/videos/Chat_G2_Angry_1_FaceOnly%20(1).mov).
-        
+    2. Maintain the same image size as in the [example videos](assets/vid2frames/videos/Chat_G2_Angry_1_FaceOnly%20(1).mov). 
 
 - 2.3 **(Optional)** Check out the code from [LivePortrait](https://liveportrait.github.io/) and animate assets/images/ameca_neutral.jpeg using any driving videos.
       The animated videos should resemble [this](https://drive.google.com/file/d/1n7bLr458SKh1Z3u_NCWwTnCfJgngKW5L/view?usp=sharing).
       Then, extract frames from these animated videos.
-
+#### 🚀 Reading List 📖 
+- [UGotMe: An Embodied System for Affective Human-Robot Interaction](https://arxiv.org/pdf/2410.18373)
+- [Facial emotion expressions in human-robot interaction: A survey](https://arxiv.org/pdf/2103.07169)
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
-Coming soon!!!
+Coming soon!!! 
