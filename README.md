@@ -31,5 +31,16 @@ pip install -r requirements.txt
 #### 🚀 Reading List 📖 
 - [UGotMe: An Embodied System for Affective Human-Robot Interaction](https://arxiv.org/pdf/2410.18373)
 - [Facial emotion expressions in human-robot interaction: A survey](https://arxiv.org/pdf/2103.07169)
+
+
+#### 📈 Data Statistics
+
+|           Statistics           | Train | Validation |
+|:------------------------------:|:-----:|:----------:|
+|          # of images           | 9341  |    2336    |
+|     # of control sequences     | 9341  |    2336    |
+| # of (image, control sequence) | 9341  |    2336    |
+
+
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
 Coming soon!!! 
