@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - [Facial emotion expressions in human-robot interaction: A survey](https://arxiv.org/pdf/2103.07169)
 
 
-#### 📈 Data Statistics
+#### 📈 Dataset Statistics
 
 |           Statistics           | Train | Validation |
 |:------------------------------:|:-----:|:----------:|
