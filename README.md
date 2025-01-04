@@ -43,4 +43,17 @@ pip install -r requirements.txt
 
 
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
-Coming soon!!! 
+
+### 1. Tasks
+- 1.1 Create additional animations focusing on eye, neck and head control.
+  - 📣 **Note:** 
+    1. There's no need to record videos this time—just create the animation projects.
+    2. Target: A minimum of 200 animation projects per person. 
+    3. You may modify existing projects directly (detailed instructions on how to do this will be provided in person).
+    4. Please adhere to the specified naming convention for the animation projects.
+- 1.2 Assist with filming real-world demonstrations.
+
+#### 🚀 Reading List 📖 
+- [BC-Z: Zero-Shot Task Generalization with Robotic
+Imitation Learning](https://arxiv.org/pdf/2202.02005)
+
