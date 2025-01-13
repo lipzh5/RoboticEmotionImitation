@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 |           Statistics           | Train | Validation |
 |:------------------------------:|:-----:|:----------:|
-|          # of images           | 42296 |   10574    |
-|     # of control sequences     | 42296 |   10574    |
-| # of (image, control sequence) | 42296 |   10574    |
+|          # of images           | 83830 |   20958    |
+|     # of control sequences     | 83830 |   20958    |
+| # of (image, control sequence) | 83830 |   20958    |
 
 
 ## Stage 2: Real-World Deployment (06.Jan.2025~19.Jan.2025)
